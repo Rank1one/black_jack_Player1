@@ -8,12 +8,12 @@
 # In[2]:
 
 
-#from IPython.display import clear_output
-from os import system
+#from IPython.display import clear_output #while using Jupyter notebook
+from os import system 
 from random import shuffle
 
 def clear_output():
-    _ = system('cls')
+    _ = system('cls') #for windows system
 
 
 
