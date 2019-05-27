@@ -26,7 +26,7 @@ def board_dpy(brd = [' ',' ',' ',' ',' ',' ',' ',' ',' ']):
      *     *    ''')
 
 
-# Players input to Board
+# Players input to table
 # _____
 
 # In[ ]:
